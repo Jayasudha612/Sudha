@@ -5,8 +5,8 @@ class point():
    pass 
 
 r = rect()
-r.width = 4
-r.height = 3
+r.width = 100
+r.height = 200
 point.corner = (0,0)
 
 def find_center(a,b,c):
